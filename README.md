@@ -1,1 +1,0 @@
-# mysql_project-salaries
